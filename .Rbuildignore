@@ -1,0 +1,5 @@
+inst/qmd/rix.qmd
+inst/qmd/usethis_targets.qmd
+^.Rproj.user/$
+^.RHistory$
+^.RData$
